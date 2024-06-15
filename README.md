@@ -23,7 +23,7 @@ This project implements a real-time facial landmark detection system using OpenC
 
 # Usage
 
-1. Run the face mesh detection script:
+1. Run the face main script:
     ```sh
     python main.py
     ```
