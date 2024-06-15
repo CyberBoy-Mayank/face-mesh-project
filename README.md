@@ -25,7 +25,7 @@ This project implements a real-time facial landmark detection system using OpenC
 
 1. Run the face mesh detection script:
     ```sh
-    python face_mesh.py
+    python main.py
     ```
 
 2. The script will start capturing video from your in-built webcam and display the detected facial landmarks in real-time.
