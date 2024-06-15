@@ -18,8 +18,7 @@ This project implements a real-time facial landmark detection system using OpenC
 
 2. Install the required dependencies:
     ```sh
-    pip install opencv-python
-    pip install mediapipe
+    -r requirements.txt
     ```
 
 # Usage
