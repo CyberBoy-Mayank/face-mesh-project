@@ -41,6 +41,9 @@ This project implements a real-time facial landmark detection system using OpenC
 - **Easy Integration**: Simple to incorporate into larger projects and adaptable for various use cases.
 - **Robust Performance**: Effective under different lighting conditions and angles.
 
+# Note:
+- **Python Version**: 3.10.2
+
 # Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
